@@ -1,0 +1,7 @@
+C:\Users\Web App Develop .Net\Desktop\dot net\day 1\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\dot net\15.4.2015\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\dot net\15.4.2015\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Web App Develop .Net\Desktop\dot net\15.4.2015\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Web App Develop .Net\Desktop\dot net\15.4.2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\dot net\15.4.2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Web App Develop .Net\Desktop\dot net\15.4.2015\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
